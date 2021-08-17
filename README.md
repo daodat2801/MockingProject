@@ -3,13 +3,13 @@
 
 1.Phạm Tuấn Anh:
 
--Code 3 chức năng login, logout, View List Books.
+-Code 3 chức năng login, logout, View List, BooksRead Book.
 
 -Thực hiện ghép nối các chức năng.
 
 2.Nguyễn Trung Anh:
 
--Code 3 chức năng Read Book, View BookCase, Edit BookCase.
+-Code 2 chức năng  View BookCase, Edit BookCase.
 
 -Thực hiện nhập dữ liệu cho database. :v
 
