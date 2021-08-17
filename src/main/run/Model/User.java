@@ -7,4 +7,5 @@ public class User {
     private String userName;
     private String passWord;
     private BookCase bookCase;
+    private String authority;
 }
