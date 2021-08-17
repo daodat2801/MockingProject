@@ -30,3 +30,5 @@
 
 
 -Sử dụng camel case cho tên biến, thuộc tính(vd: fullName) và snake case cho tên lớp, tên bảng(vd: BookCase).
+
+-Ae nhớ tạo branch của riêng mình. không push trực tiếp code vô master nhé... :))
