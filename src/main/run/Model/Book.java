@@ -3,6 +3,8 @@ package Model;
 import lombok.Data;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class Book {
     private int idBook;
     private String bookTitle;
