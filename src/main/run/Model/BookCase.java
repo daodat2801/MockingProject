@@ -10,6 +10,6 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 public class BookCase {
-    private User user;
+    private int idBookCase;
     private List<Book> bookList;
 }
